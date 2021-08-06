@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abfareye
 - 👀 I’m interested in creating world class user experience
 - 🌱 I’m currently learning javascript,react and react-native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on javascript,react,reactnative or similar tech based projects
 - 📫 How to reach me drop me an email to abhay.agrawal@getfareye.com
 
 <!---
